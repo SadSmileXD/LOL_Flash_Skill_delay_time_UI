@@ -11,9 +11,9 @@ public class cooltime : MonoBehaviour
     public Image hideSkillimage;
     private bool isHideskill = false;
     private bool flag=false;//스킬 사용시 true로 전환
-    private float skilltime = 60;
+    public float skilltime;// public으로 쿨타임 저장
     private float getSkilltime = 0;
-    // Start is called before the first frame update
+     
     void Start()
     {
         hideSkillTimeTexts=textpros.GetComponent<TextMeshProUGUI>();//시작이 되면 hideSkillTimeTexts 생성
@@ -60,7 +60,7 @@ public class cooltime : MonoBehaviour
             hideSkillButton.SetActive(false);//버튼 비활성
             flag = false;//스킬 쿨 끝나면 다시 사용가능하게 설정
         }
-        hideSkillTimeTexts.text=getSkilltime.ToString("00");
+        hideSkillTimeTexts.text=getSkilltime.ToString("00");//->수정해 보기
         float time = getSkilltime / skilltime;
         hideSkillimage.fillAmount = time;//그림자 값 초기화
     }
