@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phyco\\Documents\\GitHub\\UI_learn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{200FA889-9DF2-4ABD-A9C4-DE38D8E77414}|Assembly-CSharp.csproj|c:\\users\\phyco\\documents\\github\\ui_learn\\assets\\scenemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200FA889-9DF2-4ABD-A9C4-DE38D8E77414}|Assembly-CSharp.csproj|solutionrelative:assets\\scenemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200FA889-9DF2-4ABD-A9C4-DE38D8E77414}|Assembly-CSharp.csproj|C:\\Users\\phyco\\Documents\\GitHub\\UI_learn\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200FA889-9DF2-4ABD-A9C4-DE38D8E77414}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scenemover.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\UI_learn\\Assets\\scenemover.cs",
+              "RelativeDocumentMoniker": "Assets\\scenemover.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\UI_learn\\Assets\\scenemover.cs",
+              "RelativeToolTip": "Assets\\scenemover.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAWwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:20:18.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\UI_learn\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\UI_learn\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:54:40.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
